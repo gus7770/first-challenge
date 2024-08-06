@@ -1,19 +1,23 @@
-# <Your-Project-Title>
+# <First-Challenge-Code-Refactor>
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+This first project is about web factoring, web accessability and learning/understanding how to use technologies like github and VsCode to complete HW and assignments. 
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+- What was your motivation? 
+I am very interested in learning new technologies and skills
+- Why did you build this project? 
+It is very important to understand how to read code and debug site for clients as a software coder.
+- What problem does it solve? 
+It solves coding elements, semantics, accessability issues and structure/order of HTML code. 
+- What did you learn? 
+I learned how to create and link repositories to local drives. I learned how to save and push my work. I also learned how to look up resources available for syntax on HTML/CSS and other material online on how to make and view/edit content. I am becoming more comfortable with VS code and github repositories. 
 
 ## Table of Contents (Optional)
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
-- [Installation](#installation)
+-
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
@@ -42,24 +46,6 @@ If you followed tutorials, include links to those here as well.
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Features
-
-If your project has a lot of features, list them here.
-
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
-## Tests
