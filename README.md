@@ -13,15 +13,6 @@ It solves coding elements, semantics, accessability issues and structure/order o
 - What did you learn? 
 I learned how to create and link repositories to local drives. I learned how to save and push my work. I also learned how to look up resources available for syntax on HTML/CSS and other material online on how to make and view/edit content. I am becoming more comfortable with VS code and github repositories. 
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
--
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
 ## Installation
 
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
@@ -32,9 +23,14 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+<a href="https://github.com/gus7770/first-challenge-code-refactor"> Github Repo </a>
+
+<a href="https://gus7770.github.io/first-challenge-code-refactor/"> Live Page</a>
+
+    
+
+  ![alt text](./assets/images/screenshot%20of%20my%20work.png)
+   
 
 ## Credits
 
