@@ -29,7 +29,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
     
 
-  ![alt text](./assets/images/screenshot%20of%20my%20work.png)
+  ![alt text](./assets/images/screenshot%20of%20my%20work.jpg)
    
 
 ## Credits
